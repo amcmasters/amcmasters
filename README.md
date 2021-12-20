@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amcmasters
-- 👀 I’m interested in Pyhon, AI, Processing, design, art, commerce.
+- 👀 I’m interested in Python, AI, Processing, design, Arrrrt, commerce.
 - 🌱 I’m currently learning GPT2, Python, Processing, whatever seems cool...R?
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me amcmasters@gmail.com
